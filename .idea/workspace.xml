@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c318a541-4a2b-427d-ae28-d837b9b53ae4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/maps/.ok_history" beforeDir="false" afterPath="$PROJECT_DIR$/projects/maps/.ok_history" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,54 +14,75 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/cs61a$hog_gui.coverage" NAME="hog_gui Coverage Results" MODIFIED="1629636610543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/hog" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="308770791">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="2" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.45" value="1" />
-          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.48" value="2" />
           <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.69" value="1" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ok" value="1" />
-          <entry key="py" value="70" />
+          <entry key="py" value="82" />
+          <entry key="rst" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="70" />
+          <entry key="Python" value="82" />
+          <entry key="ReST" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="15918" />
+          <entry key="py" value="19670" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="15918" />
+          <entry key="Python" value="19670" />
         </counts>
       </usages-collector>
     </session>
@@ -68,31 +90,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab/lab06/classes.py">
+        <entry file="file://$PROJECT_DIR$/projects/ants/ants.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3358">
-              <caret line="186" column="23" selection-start-line="186" selection-start-column="23" selection-end-line="186" selection-end-column="23" />
+            <state relative-caret-position="45">
+              <caret line="523" column="20" lean-forward="true" selection-start-line="523" selection-start-column="20" selection-end-line="523" selection-end-column="20" />
               <folding>
-                <marker date="1631443533269" expanded="true" signature="6400:6457" ph="..." />
+                <marker date="1631876560500" expanded="true" signature="9557:9647" ph="..." />
+                <marker date="1631876560500" expanded="true" signature="10330:10412" ph="..." />
+                <marker date="1631876560500" expanded="true" signature="15536:15732" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab/lab06/data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="91" column="32" lean-forward="true" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab/lab06/adventure.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-967">
-              <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -101,16 +107,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>say</find>
-      <find>make_test_dice</find>
-      <find>make_test</find>
-      <find>roll_dice</find>
-      <find>max_scoring_num_rolls</find>
-      <find>is_sw</find>
-      <find>highest</find>
-      <find>input</find>
-      <find>i</find>
-      <find>sample</find>
+      <find>hungry</find>
+      <find>Ninja</find>
+      <find>NinjaAnt</find>
+      <find>ninja</find>
+      <find>ninjaant</find>
+      <find>bee</find>
+      <find>bee(</find>
+      <find>wall</find>
+      <find>place(</find>
+      <find>bodyguardant</find>
+      <find>can_contain</find>
+      <find>tankant</find>
+      <find>hive</find>
+      <find>hive(</find>
+      <find>Insect(</find>
+      <find>Bee(</find>
+      <find>HIve(</find>
+      <find>dry_layout</find>
+      <find>register_place</find>
+      <find>Hive(</find>
+      <find>12</find>
+      <find>Problem 12</find>
+      <find>water</find>
+      <find>water(</find>
+      <find>QueenAnt</find>
+      <find>bees_win</find>
+      <find>add_insect</find>
+      <find>time</find>
+      <find>slowThrower</find>
+      <find>apply_effect</find>
     </findStrings>
     <replaceStrings>
       <replace>j</replace>
@@ -150,6 +176,7 @@
         <option value="$PROJECT_DIR$/lab/lab06/data.py" />
         <option value="$PROJECT_DIR$/lab/lab06/lab06_extra.py" />
         <option value="$PROJECT_DIR$/lab/lab06/classes.py" />
+        <option value="$PROJECT_DIR$/projects/ants/ants.py" />
       </list>
     </option>
   </component>
@@ -160,9 +187,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="807" />
-    <option name="y" value="30" />
-    <option name="width" value="1018" />
+    <option name="x" value="677" />
+    <option name="y" value="31" />
+    <option name="width" value="1258" />
     <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -182,13 +209,20 @@
             <path>
               <item name="cs61a" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs61a" type="462c0819:PsiDirectoryNode" />
-              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs61a" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs61a" type="462c0819:PsiDirectoryNode" />
-              <item name="lab" type="462c0819:PsiDirectoryNode" />
-              <item name="lab06" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs61a" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs61a" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ants" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -258,10 +292,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="646" y="24" width="814" height="846" extended-state="0" />
+    <frame x="542" y="25" width="1006" height="846" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.43809524" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.43657142" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -281,7 +315,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32916147" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,43 +517,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1014056776/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="253" column="4" selection-start-line="253" selection-start-column="4" selection-end-line="253" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab/lab06/lab06_extra.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <marker date="1631435416725" expanded="true" signature="520:596" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab/lab06/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="91" column="32" lean-forward="true" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab/lab06/adventure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-967">
+        <state relative-caret-position="599">
           <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab/lab06/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="91" column="32" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab/lab06/classes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3358">
-          <caret line="186" column="23" selection-start-line="186" selection-start-column="23" selection-end-line="186" selection-end-column="23" />
+        <state relative-caret-position="401">
+          <caret line="180" lean-forward="true" selection-start-line="180" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/ants/mytests.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/ml_env/Lib/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="80" column="6" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/ants/gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12246" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/ants/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1584" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/ants/state.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/ants/ants_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/ants/tests/05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1014056776/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="891" column="6" selection-start-line="891" selection-start-column="6" selection-end-line="891" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/ants/ants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="523" column="20" lean-forward="true" selection-start-line="523" selection-start-column="20" selection-end-line="523" selection-end-column="20" />
           <folding>
-            <marker date="1631443533269" expanded="true" signature="6400:6457" ph="..." />
+            <marker date="1631876560500" expanded="true" signature="9557:9647" ph="..." />
+            <marker date="1631876560500" expanded="true" signature="10330:10412" ph="..." />
+            <marker date="1631876560500" expanded="true" signature="15536:15732" ph="..." />
           </folding>
         </state>
       </provider>
