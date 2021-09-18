@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c318a541-4a2b-427d-ae28-d837b9b53ae4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/maps/.ok_history" beforeDir="false" afterPath="$PROJECT_DIR$/projects/maps/.ok_history" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +31,7 @@
     <session id="308770791">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.29" value="1" />
@@ -49,7 +48,7 @@
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="2" />
           <entry key="project.open.time.44" value="1" />
-          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.45" value="2" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.48" value="2" />
           <entry key="project.open.time.50" value="1" />
@@ -58,31 +57,31 @@
           <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.69" value="1" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ok" value="1" />
-          <entry key="py" value="82" />
+          <entry key="py" value="83" />
           <entry key="rst" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="82" />
+          <entry key="Python" value="83" />
           <entry key="ReST" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="19670" />
+          <entry key="py" value="20635" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="19670" />
+          <entry key="Python" value="20635" />
         </counts>
       </usages-collector>
     </session>
@@ -90,15 +89,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projects/ants/ants.py">
+        <entry file="file://$PROJECT_DIR$/hw/hw06/hw06.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="523" column="20" lean-forward="true" selection-start-line="523" selection-start-column="20" selection-end-line="523" selection-end-column="20" />
-              <folding>
-                <marker date="1631876560500" expanded="true" signature="9557:9647" ph="..." />
-                <marker date="1631876560500" expanded="true" signature="10330:10412" ph="..." />
-                <marker date="1631876560500" expanded="true" signature="15536:15732" ph="..." />
-              </folding>
+            <state relative-caret-position="452">
+              <caret line="104" column="32" selection-start-line="104" selection-start-column="32" selection-end-line="104" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -107,7 +101,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hungry</find>
       <find>Ninja</find>
       <find>NinjaAnt</find>
       <find>ninja</find>
@@ -137,10 +130,12 @@
       <find>time</find>
       <find>slowThrower</find>
       <find>apply_effect</find>
+      <find>Fib</find>
     </findStrings>
     <replaceStrings>
       <replace>j</replace>
       <replace />
+      <replace>fib</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\cs61a\hw\hw03</dir>
@@ -177,6 +172,7 @@
         <option value="$PROJECT_DIR$/lab/lab06/lab06_extra.py" />
         <option value="$PROJECT_DIR$/lab/lab06/classes.py" />
         <option value="$PROJECT_DIR$/projects/ants/ants.py" />
+        <option value="$PROJECT_DIR$/hw/hw06/hw06.py" />
       </list>
     </option>
   </component>
@@ -187,10 +183,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="677" />
-    <option name="y" value="31" />
-    <option name="width" value="1258" />
-    <option name="height" value="1058" />
+    <option name="x" value="642" />
+    <option name="y" value="47" />
+    <option name="width" value="1259" />
+    <option name="height" value="1059" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -209,20 +205,13 @@
             <path>
               <item name="cs61a" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs61a" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="hw" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs61a" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs61a" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="ants" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs61a" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs61a" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="ants" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="hw" type="462c0819:PsiDirectoryNode" />
+              <item name="hw06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,10 +281,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="542" y="25" width="1006" height="846" extended-state="0" />
+    <frame x="514" y="38" width="1007" height="847" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.43657142" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4362487" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -590,12 +579,19 @@
     <entry file="file://$PROJECT_DIR$/projects/ants/ants.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="523" column="20" lean-forward="true" selection-start-line="523" selection-start-column="20" selection-end-line="523" selection-end-column="20" />
+          <caret line="523" column="20" selection-start-line="523" selection-start-column="20" selection-end-line="523" selection-end-column="20" />
           <folding>
             <marker date="1631876560500" expanded="true" signature="9557:9647" ph="..." />
             <marker date="1631876560500" expanded="true" signature="10330:10412" ph="..." />
             <marker date="1631876560500" expanded="true" signature="15536:15732" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw/hw06/hw06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="104" column="32" selection-start-line="104" selection-start-column="32" selection-end-line="104" selection-end-column="32" />
         </state>
       </provider>
     </entry>
