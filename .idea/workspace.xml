@@ -31,12 +31,12 @@
     <session id="308770791">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="34" />
+          <entry key="project.closed" value="37" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.30" value="2" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.33" value="1" />
@@ -57,10 +57,11 @@
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.69" value="1" />
-          <entry key="project.opened" value="37" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -68,11 +69,12 @@
           <entry key="ok" value="1" />
           <entry key="py" value="95" />
           <entry key="rst" value="1" />
+          <entry key="scm" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="95" />
           <entry key="ReST" value="1" />
         </counts>
@@ -80,11 +82,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="py" value="23935" />
+          <entry key="scm" value="940" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="PLAIN_TEXT" value="69" />
           <entry key="Python" value="23935" />
+          <entry key="Scheme" value="871" />
         </counts>
       </usages-collector>
     </session>
@@ -92,13 +97,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab/lab08/lab08_extra.py">
+        <entry file="file://$PROJECT_DIR$/hw/hw08/hw08.scm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="157" column="26" selection-start-line="157" selection-start-column="26" selection-end-line="157" selection-end-column="26" />
-              <folding>
-                <marker date="1632836895003" expanded="true" signature="1992:2464" ph="..." />
-              </folding>
+            <state relative-caret-position="1160">
+              <caret line="109" column="64" selection-start-line="107" selection-start-column="10" selection-end-line="109" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -184,6 +186,7 @@
         <option value="$PROJECT_DIR$/hw/hw07/hw07.py" />
         <option value="$PROJECT_DIR$/lab/lab08/lab08.py" />
         <option value="$PROJECT_DIR$/lab/lab08/lab08_extra.py" />
+        <option value="$PROJECT_DIR$/hw/hw08/hw08.scm" />
       </list>
     </option>
   </component>
@@ -194,8 +197,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="373" />
-    <option name="y" value="57" />
+    <option name="x" value="731" />
+    <option name="y" value="30" />
     <option name="width" value="1260" />
     <option name="height" value="1030" />
   </component>
@@ -221,13 +224,13 @@
             <path>
               <item name="cs61a" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs61a" type="462c0819:PsiDirectoryNode" />
-              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="hw" type="462c0819:PsiDirectoryNode" />
+              <item name="hw08" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs61a" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs61a" type="462c0819:PsiDirectoryNode" />
               <item name="lab" type="462c0819:PsiDirectoryNode" />
-              <item name="lab08" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,7 +300,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="299" y="46" width="1008" height="824" extended-state="0" />
+    <frame x="585" y="24" width="1008" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.22421053" />
@@ -321,6 +324,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32916147" />
+      <window_info anchor="right" id="Scheme.REPL" order="5" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,9 +334,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/projects/hog/calc.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects/hog/hog_gui.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -642,9 +643,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="157" column="26" selection-start-line="157" selection-start-column="26" selection-end-line="157" selection-end-column="26" />
-          <folding>
-            <marker date="1632836895003" expanded="true" signature="1992:2464" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw/hw08/hw08.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1160">
+          <caret line="109" column="64" selection-start-line="107" selection-start-column="10" selection-end-line="109" selection-end-column="64" />
         </state>
       </provider>
     </entry>
