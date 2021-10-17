@@ -109,6 +109,7 @@ class InputReader:
             yield input(self.prompt)
             self.prompt = ' ' * len(self.prompt)
 
+
 class LineReader:
     """A LineReader is an iterable that prints lines after a prompt."""
     def __init__(self, lines, prompt, comment=";"):
